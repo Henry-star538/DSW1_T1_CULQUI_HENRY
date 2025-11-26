@@ -23,8 +23,7 @@ packages/
 !packages/build/
 
 # Environment variables
-.env
-.env.*
+
 appsettings.Development.json
 
 # IDE
